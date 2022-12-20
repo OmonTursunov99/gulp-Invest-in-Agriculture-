@@ -1,3 +1,2 @@
 # Gulp
-# Project name: Invest in Agriculture# Gulp
-# Gulp
+# Project name: Invest in Agriculture
